@@ -1,3 +1,3 @@
 import qrcode
-img=qrcode.make("lambamitul@okicici")
-img.save("mygpay3.png",scale=8)
+img=qrcode.make("http://www.mushsupplyagrofarms.com")
+img.save("mushsupply.png")
